@@ -1,0 +1,67 @@
+.header {
+
+    width: 100%;
+    background-color: red;
+        padding-top:20px;
+    margin-top:50px; 
+    top: -20px;
+    left: 20px;
+
+}
+.content {
+
+    width: 50%;
+    margin-left:25%; /**/
+    background-color: blue;
+        padding-top:20px;
+   
+}
+
+.footer {
+
+    width: 100%;
+    background-color: green;
+    padding-top:20px;
+    margin-top:10px; 
+}
+
+
+del dodaj v nov css
+
+.relative1 {
+    background-color: red;
+    top:5px;
+   position: relative;
+}
+.relative2 {
+    position: relative;
+top: 10px;
+    background-color: red;
+    width: 500px;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 20;
+    right: 666;
+    width: 2000px;
+    background-color: white;
+}
+
+
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    background-color: white;
+}
+
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    background-color: yellow;
+}

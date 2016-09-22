@@ -1,0 +1,64 @@
+
+.relative1 {
+    background-color: red;
+   position: relative;
+        top: 20px;
+    left: 20px;
+      width: 500px;
+}
+.relative2 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: green;
+    width: 500px;
+}
+
+
+.relative3 {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: yellow;
+    width: 500px;
+}
+
+
+.header {
+
+    width: 100%;
+    background-color: red;
+        padding-top:20px;
+    margin-top:50px; 
+    top: 200px;
+    left: 20px;
+
+}
+.content {
+
+    width: 500%;
+    margin-left:%; /**/
+    background-color: rebeccapurple;
+        padding-top:20px;
+   
+}
+
+.footer {
+
+    width: 500%;
+    background-color: green;
+    padding-top:20px;
+    margin-top:10px; 
+}
+
+relative4 {
+    background-color: gold;
+   position: relative;
+        top: -20px;
+    left: 20px;
+      width: 300px;
+}
+
+
+
+

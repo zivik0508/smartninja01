@@ -1,0 +1,109 @@
+p {
+    color: red;
+}
+
+<p>Rdeče obarvan text</p>
+
+<p>Modro obarvan text</p>
+
+p {
+    color: red;
+}
+
+#rdeci {
+    color: red;
+}
+
+#modri1 {
+    color: blue;
+}
+
+#zelenorumen2 {
+    color: greenyellow;
+}
+
+#rdeci {
+    color: red;
+}
+
+.modra {
+    color: blue;
+}
+
+
+.image {
+  border: 60px black dotted;
+  padding: 50px;
+}
+
+
+body { 
+     background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+} 
+
+h1 {
+    text-align: center;
+}
+
+ h2 {
+    text-align: right;
+}
+p {
+     border: 5px solid blue;
+} 
+
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+table {
+     table-layout: fixed;
+
+    
+
+    
+    
+    p {
+    color: red;
+}
+#rdeci {
+    color: red;
+}
+
+#modri1 {
+    color: blue;
+}
+
+#modri2 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+#rdeci {
+    color: red;
+}
+
+.modra {
+    color: blue;
+}
+<head>
+    <!-- ostala koda -->
+    <link rel=”stylesheet” href=”style.css”>
+</head>
+.image {
+  border: 600px black dotted;
+  padding: 500px;
+}
+
+.image:hover {
+  border: 600000px red solid;
+}
+
+    
+    font-family: 'Lato', sans-serif;
